@@ -49,14 +49,16 @@ Now, change your cursor using Gnome, or other manager
 
 Uninstallation
 ```bash
-rm ~/.icons/visioncursor<color>                  # Remove from local users
-sudo rm /usr/share/icons/visioncursor<color>     # Remove from all users
+rm ~/.icons/Vision-<color>                  # Remove from local users
+sudo rm /usr/share/icons/Vision-<color>     # Remove from all users
 ```
 
 </details>
 
 
 # License
+
+Original work by [iDarques](https://www.deviantart.com/idarques)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
